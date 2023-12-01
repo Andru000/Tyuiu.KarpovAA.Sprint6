@@ -31,7 +31,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task0.V2
 
                 MessageBox.Show("Введены неверные данные", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-        }
+        } 
 
         private void textBoxInput_KAA_KeyPress(object sender, KeyPressEventArgs e)
         {

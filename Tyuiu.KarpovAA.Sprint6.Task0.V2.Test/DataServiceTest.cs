@@ -15,7 +15,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task0.V2.Test
             double wait = 6.425;
             Assert.AreEqual(wait, res);
 
-
+             
         }
     }
 } 
