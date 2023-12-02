@@ -126,6 +126,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task0.V2
             this.textBoxInput_KAA.Name = "textBoxInput_KAA";
             this.textBoxInput_KAA.Size = new System.Drawing.Size(204, 58);
             this.textBoxInput_KAA.TabIndex = 0;
+            this.textBoxInput_KAA.WordWrap = false;
             this.textBoxInput_KAA.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxInput_KAA_KeyPress);
             // 
             // groupBoxOutput_KAA
