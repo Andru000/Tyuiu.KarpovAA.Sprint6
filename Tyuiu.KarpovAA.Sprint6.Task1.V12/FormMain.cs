@@ -35,16 +35,16 @@ namespace Tyuiu.KarpovAA.Sprint6.Task1.V12
 
                 textBoxOutPut_KAA.Text = "";
 
-                textBoxOutPut_KAA.AppendText("+----------+----------+" + Environment.NewLine);
-                textBoxOutPut_KAA.AppendText("|    X     |    f(x)  |" + Environment.NewLine);
-                textBoxOutPut_KAA.AppendText("+----------+----------+" + Environment.NewLine);
+                textBoxOutPut_KAA.AppendText("+---------+----------+" + Environment.NewLine);
+                textBoxOutPut_KAA.AppendText("|    X    |   f(x)   |" + Environment.NewLine);
+                textBoxOutPut_KAA.AppendText("+---------+----------+" + Environment.NewLine);
                 for (int i = 0; i <= len - 1; i++)
                 {
-                    strLine = String.Format("|{0,5}    |  {1, 6:f2}   |", startValue, valueArray[i]);
+                    strLine = String.Format("|{0,5}    |  {1, 6:f2}  |", startValue, valueArray[i]);
                     textBoxOutPut_KAA.AppendText(strLine + Environment.NewLine);
                     startValue++;
                 }
-                textBoxOutPut_KAA.AppendText("+----------+----------+" + Environment.NewLine);
+                textBoxOutPut_KAA.AppendText("+---------+----------+" + Environment.NewLine);
             }
             catch
             {
