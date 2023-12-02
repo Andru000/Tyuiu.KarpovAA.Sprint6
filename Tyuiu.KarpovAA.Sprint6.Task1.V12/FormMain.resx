@@ -117,4 +117,412 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;textBoxTask_KAA.Name" xml:space="preserve">
+    <value>textBoxTask_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.Parent" xml:space="preserve">
+    <value>groupBoxTask_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="groupBoxTask_KAA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.25pt</value>
+  </data>
+  <data name="groupBoxTask_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 12</value>
+  </data>
+  <data name="groupBoxTask_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>417, 278</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="groupBoxTask_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBoxTask_KAA.Text" xml:space="preserve">
+    <value>Условие</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTask_KAA.Name" xml:space="preserve">
+    <value>groupBoxTask_KAA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTask_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTask_KAA.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxTask_KAA.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="ButtonResult_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>340, 363</value>
+  </data>
+  <data name="ButtonResult_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 61</value>
+  </data>
+  <data name="ButtonResult_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="ButtonResult_KAA.Text" xml:space="preserve">
+    <value>Выполнить</value>
+  </data>
+  <data name="&gt;&gt;ButtonResult_KAA.Name" xml:space="preserve">
+    <value>ButtonResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;ButtonResult_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonResult_KAA.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;ButtonResult_KAA.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxTask_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 25</value>
+  </data>
+  <data name="textBoxTask_KAA.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="textBoxTask_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>405, 247</value>
+  </data>
+  <data name="textBoxTask_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBoxTask_KAA.Text" xml:space="preserve">
+    <value>Протабулировать функцию sin(X) на заданном диапазоне: Результат вывести в виде таблицы.</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.Name" xml:space="preserve">
+    <value>textBoxTask_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.Parent" xml:space="preserve">
+    <value>groupBoxTask_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxTask_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Name" xml:space="preserve">
+    <value>textBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Parent" xml:space="preserve">
+    <value>groupBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Name" xml:space="preserve">
+    <value>textBoxOutPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Parent" xml:space="preserve">
+    <value>groupBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBoxResult_KAA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.25pt</value>
+  </data>
+  <data name="groupBoxResult_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>435, 12</value>
+  </data>
+  <data name="groupBoxResult_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>353, 426</value>
+  </data>
+  <data name="groupBoxResult_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBoxResult_KAA.Text" xml:space="preserve">
+    <value>Вывод данных</value>
+  </data>
+  <data name="&gt;&gt;groupBoxResult_KAA.Name" xml:space="preserve">
+    <value>groupBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxResult_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxResult_KAA.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxResult_KAA.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxOutPut_KAA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Consolas, 12pt</value>
+  </data>
+  <data name="textBoxOutPut_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 76</value>
+  </data>
+  <data name="textBoxOutPut_KAA.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textBoxOutPut_KAA.ScrollBars" type="System.Windows.Forms.ScrollBars, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="textBoxOutPut_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>341, 344</value>
+  </data>
+  <data name="textBoxOutPut_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Name" xml:space="preserve">
+    <value>textBoxOutPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.Parent" xml:space="preserve">
+    <value>groupBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxOutPut_KAA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxResult_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 44</value>
+  </data>
+  <data name="textBoxResult_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="textBoxResult_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="textBoxResult_KAA.Text" xml:space="preserve">
+    <value>Результат:</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Name" xml:space="preserve">
+    <value>textBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.Parent" xml:space="preserve">
+    <value>groupBoxResult_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxResult_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Name" xml:space="preserve">
+    <value>textBoxVarB_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Name" xml:space="preserve">
+    <value>textBoxVarA_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Name" xml:space="preserve">
+    <value>textBoxEndStep_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Name" xml:space="preserve">
+    <value>textBoxStartStep_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="groupBoxInPut_KAA.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12.25pt</value>
+  </data>
+  <data name="groupBoxInPut_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 296</value>
+  </data>
+  <data name="groupBoxInPut_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>251, 136</value>
+  </data>
+  <data name="groupBoxInPut_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="groupBoxInPut_KAA.Text" xml:space="preserve">
+    <value>Ввод данных</value>
+  </data>
+  <data name="&gt;&gt;groupBoxInPut_KAA.Name" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;groupBoxInPut_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxInPut_KAA.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxInPut_KAA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxStartStep_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 56</value>
+  </data>
+  <data name="textBoxStartStep_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="textBoxStartStep_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="textBoxStartStep_KAA.Text" xml:space="preserve">
+    <value>Старт шага:</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Name" xml:space="preserve">
+    <value>textBoxStartStep_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxStartStep_KAA.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textBoxEndStep_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>145, 56</value>
+  </data>
+  <data name="textBoxEndStep_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="textBoxEndStep_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="textBoxEndStep_KAA.Text" xml:space="preserve">
+    <value>Конец Шага:</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Name" xml:space="preserve">
+    <value>textBoxEndStep_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxEndStep_KAA.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxVarA_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 102</value>
+  </data>
+  <data name="textBoxVarA_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="textBoxVarA_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Name" xml:space="preserve">
+    <value>textBoxVarA_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarA_KAA.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textBoxVarB_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>145, 102</value>
+  </data>
+  <data name="textBoxVarB_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="textBoxVarB_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Name" xml:space="preserve">
+    <value>textBoxVarB_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.Parent" xml:space="preserve">
+    <value>groupBoxInPut_KAA</value>
+  </data>
+  <data name="&gt;&gt;textBoxVarB_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonHelp_KAA.Location" type="System.Drawing.Point, System.Drawing">
+    <value>275, 374</value>
+  </data>
+  <data name="buttonHelp_KAA.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 50</value>
+  </data>
+  <data name="buttonHelp_KAA.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="buttonHelp_KAA.Text" xml:space="preserve">
+    <value>Справка</value>
+  </data>
+  <data name="&gt;&gt;buttonHelp_KAA.Name" xml:space="preserve">
+    <value>buttonHelp_KAA</value>
+  </data>
+  <data name="&gt;&gt;buttonHelp_KAA.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonHelp_KAA.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;buttonHelp_KAA.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Спринт 6 | Таск 1 | Вариант 12 | Карпов А. А</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
