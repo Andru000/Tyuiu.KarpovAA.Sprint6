@@ -156,6 +156,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2
             this.buttonSave_KAA.Size = new System.Drawing.Size(75, 53);
             this.buttonSave_KAA.TabIndex = 5;
             this.buttonSave_KAA.UseVisualStyleBackColor = true;
+            this.buttonSave_KAA.Click += new System.EventHandler(this.buttonSave_KAA_Click);
             // 
             // buttonHelp_KAA
             // 
@@ -165,6 +166,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2
             this.buttonHelp_KAA.Size = new System.Drawing.Size(75, 54);
             this.buttonHelp_KAA.TabIndex = 4;
             this.buttonHelp_KAA.UseVisualStyleBackColor = true;
+            this.buttonHelp_KAA.Click += new System.EventHandler(this.buttonHelp_KAA_Click);
             // 
             // buttonOpen_KAA
             // 
@@ -184,6 +186,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2
             this.buttonDone_KAA.Size = new System.Drawing.Size(75, 52);
             this.buttonDone_KAA.TabIndex = 1;
             this.buttonDone_KAA.UseVisualStyleBackColor = true;
+            this.buttonDone_KAA.Click += new System.EventHandler(this.buttonDone_KAA_Click);
             // 
             // FormMain
             // 
@@ -194,7 +197,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2
             this.Controls.Add(this.panelLeft_KAA);
             this.Controls.Add(this.panelTop_KAA);
             this.Name = "FormMain";
-            this.Text = "Спринт 6 | Таск 7 | Вариант 2 | Карпов А. А";
+            this.Text = "Спринт 6 | Таск 7 | Вариант 2 | Карпов А. А.";
             this.panelTop_KAA.ResumeLayout(false);
             this.panelLeft_KAA.ResumeLayout(false);
             this.panelRight_KAA.ResumeLayout(false);

@@ -99,5 +99,15 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap XtYr_gPDUKI {
+            get {
+                object obj = ResourceManager.GetObject("XtYr_gPDUKI", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

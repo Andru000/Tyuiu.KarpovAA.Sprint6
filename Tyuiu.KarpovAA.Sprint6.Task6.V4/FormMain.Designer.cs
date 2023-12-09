@@ -154,6 +154,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             // 
             // buttonOpen_KAA
             // 
+            this.buttonOpen_KAA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonOpen_KAA.Image = global::Tyuiu.KarpovAA.Sprint6.Task6.V4.Properties.Resources.folder_page_white;
             this.buttonOpen_KAA.Location = new System.Drawing.Point(10, 6);
             this.buttonOpen_KAA.Name = "buttonOpen_KAA";
@@ -166,6 +167,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             // buttonHelp_KAA
             // 
             this.buttonHelp_KAA.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonHelp_KAA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonHelp_KAA.Image = global::Tyuiu.KarpovAA.Sprint6.Task6.V4.Properties.Resources.help;
             this.buttonHelp_KAA.Location = new System.Drawing.Point(713, 6);
             this.buttonHelp_KAA.Name = "buttonHelp_KAA";
@@ -177,6 +179,8 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             // 
             // buttonResult_KAA
             // 
+            this.buttonResult_KAA.Enabled = false;
+            this.buttonResult_KAA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonResult_KAA.Image = global::Tyuiu.KarpovAA.Sprint6.Task6.V4.Properties.Resources.page_white_go;
             this.buttonResult_KAA.Location = new System.Drawing.Point(93, 6);
             this.buttonResult_KAA.Name = "buttonResult_KAA";
