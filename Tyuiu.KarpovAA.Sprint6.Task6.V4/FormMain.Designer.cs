@@ -159,6 +159,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             this.buttonOpen_KAA.Name = "buttonOpen_KAA";
             this.buttonOpen_KAA.Size = new System.Drawing.Size(75, 54);
             this.buttonOpen_KAA.TabIndex = 3;
+            this.toolTip_KAA.SetToolTip(this.buttonOpen_KAA, "Подсказка\r\nОткрыть файл\r\nВыберите нужный файл для обработки");
             this.buttonOpen_KAA.UseVisualStyleBackColor = true;
             this.buttonOpen_KAA.Click += new System.EventHandler(this.buttonOpen_KAA_Click);
             // 
@@ -170,6 +171,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             this.buttonHelp_KAA.Name = "buttonHelp_KAA";
             this.buttonHelp_KAA.Size = new System.Drawing.Size(75, 54);
             this.buttonHelp_KAA.TabIndex = 2;
+            this.toolTip_KAA.SetToolTip(this.buttonHelp_KAA, "Подсказка\r\nСведения о программе");
             this.buttonHelp_KAA.UseVisualStyleBackColor = true;
             this.buttonHelp_KAA.Click += new System.EventHandler(this.buttonHelp_KAA_Click);
             // 
@@ -180,6 +182,8 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             this.buttonResult_KAA.Name = "buttonResult_KAA";
             this.buttonResult_KAA.Size = new System.Drawing.Size(75, 54);
             this.buttonResult_KAA.TabIndex = 0;
+            this.toolTip_KAA.SetToolTip(this.buttonResult_KAA, "Подсказка\r\nПроизводит поиск в файле вхождений символов \"n\" и конкатинирует строки" +
+        " в которых находятся эти символы");
             this.buttonResult_KAA.UseVisualStyleBackColor = true;
             this.buttonResult_KAA.Click += new System.EventHandler(this.buttonResult_KAA_Click);
             // 

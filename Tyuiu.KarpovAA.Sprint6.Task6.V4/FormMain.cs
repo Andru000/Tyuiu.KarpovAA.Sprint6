@@ -32,7 +32,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task6.V4
             openFileDialogTask_KAA.ShowDialog();
             openFilePath = openFileDialogTask_KAA.FileName;
             textBoxInPut_KAA.Text = File.ReadAllText(openFilePath);
-            groupBoxOutPut_KAA.Text = groupBoxOutPut_KAA.Text + " " + openFileDialogTask_KAA.FileName;
+            groupBoxInPut_KAA.Text = groupBoxInPut_KAA.Text + " " + openFileDialogTask_KAA.FileName;
         }
 
         private void buttonHelp_KAA_Click(object sender, EventArgs e)
