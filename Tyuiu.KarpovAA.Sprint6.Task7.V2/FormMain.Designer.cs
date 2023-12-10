@@ -219,6 +219,7 @@ namespace Tyuiu.KarpovAA.Sprint6.Task7.V2
             this.Controls.Add(this.panelLeft_KAA);
             this.Controls.Add(this.panelTop_KAA);
             this.Name = "FormMain";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Спринт 6 | Таск 7 | Вариант 2 | Карпов А. А.";
             this.Load += new System.EventHandler(this.FormMain_Load);
             this.panelTop_KAA.ResumeLayout(false);
